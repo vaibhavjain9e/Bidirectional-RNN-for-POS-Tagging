@@ -2,8 +2,6 @@ import numpy
 import tensorflow as tf
 import sys
 
-USC_EMAIL = 'vaibhavj@usc.edu'
-PASSWORD = '2b9fa80275ed9c67'
 TRAIN_TIME_MINUTES = 8
 
 
